@@ -1,0 +1,16 @@
+| Step  | File                 | Topic                       |
+| ----  | ------------------   | --------------------------- |
+| ✅ 1  | `index.js`         | Introduction to Arrays      |
+| ✅ 2  | `array.js`         | Creating & Accessing Arrays |
+| ✅ 3  | `length.js`        | Array Length                |
+| ✅ 4  | `includes.js`      | includes() Method           |
+| ✅ 5  | `push.js`          | push()                      |
+| ✅ 6  | `pop.js`           | pop()                       |
+| ✅ 7  | `shift-unshift.js` | shift() & unshift()         |
+| ✅ 8  | `slice.js`         | slice()                     |
+| ✅ 9  | `reverse.js`       | reverse()                   |
+| ✅ 10 | `sort.js`          | sort()                      |
+| ✅ 11 | `loop.js`          | Looping Through Arrays      |
+| ✅ 12 | `for.js`           | for Loop with Arrays        |
+| ✅ 13 | `while.js`         | while Loop with Arrays      |
+| ✅ 14 | `revision.js`      | Complete Revision           |
